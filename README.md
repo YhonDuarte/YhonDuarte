@@ -7,7 +7,7 @@
 </div>
 <div align='block'>
 
-<h3>  Estas son algunas de los lenguajes que actualmente manejo:<h3/> 
+<h3>  Estas son algunos de los lenguajes que actualmente manejo:<h3/> 
 <ul>
 <li><img src='https://cdn-icons-png.flaticon.com/512/1216/1216733.png' width='60px' />
 <li><img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' width='60px' />
